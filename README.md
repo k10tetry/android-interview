@@ -21,11 +21,14 @@
 - File, FileWritter, FileReader, BufferedReader, BufferedWritter, PrintWritter [link](java/file_filereader_filewritter.pdf)
 - Serialization [link](java/serialization.pdf)
 
+## Kotlin
+
 ## Design Patterns
 
-- Structural Pattern
-- Creational Pattern
-- Behavioural Pattern
+- Structural Pattern [link](https://refactoring.guru/design-patterns/structural-patterns)
+- Creational Pattern [link](https://refactoring.guru/design-patterns/creational-patterns)
+- Behavioural Pattern [link] (https://refactoring.guru/design-patterns/behavioral-patterns)
+- SOLID Principles [link](https://medium.com/kayvan-kaseb/the-solid-principles-for-android-developers-75fd4ca3ef84) [link](https://medium.com/mindorks/solid-principles-explained-with-examples-79d1ce114ace)
 
 ## Android Core
 
@@ -44,3 +47,34 @@
 - Loopers, Handlers and HandlerThreads [link](https://blog.mindorks.com/android-core-looper-handler-and-handlerthread-bd54d69fe91a)
 - Scoped Storage [link](https://blog.mindorks.com/understanding-the-scoped-storage-in-android)
 - Parcelable vs Serializable [link](https://medium.com/android-news/parcelable-vs-serializable-6a2556d51538)
+- Bitmap Pool [link](https://blog.mindorks.com/how-to-use-bitmap-pool-in-android-56c71a55533c)
+
+## Android Advance
+- Dependency Injection Dagger 2 [link](https://blog.mindorks.com/introduction-to-dagger-2-using-dependency-injection-in-android-part-2-b55857911bcd) [youtube](https://youtube.com/playlist?list=PLuR1PJnGR-Ih-HXnGSpnqjdhdvqcwhfFU)
+- Viewmodel and It's Internals
+- Coroutines
+- MVVM Architecture
+- Clean Code Architecture
+- RxJava
+
+MIT License
+
+Copyright (c) 2022 Ketan Tetry
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
