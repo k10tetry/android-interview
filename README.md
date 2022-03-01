@@ -20,15 +20,8 @@
 - Object, String, StringBuffer, StringBuilder, Wrapper Classes, Autoboxing and Auto Unboxing [link](java/object_string_stringbuffer_stringbuilder_wrapper_autoboxing.pdf)
 - File, FileWritter, FileReader, BufferedReader, BufferedWritter, PrintWritter [link](java/file_filereader_filewritter.pdf)
 - Serialization [link](java/serialization.pdf)
-
-## Kotlin
-
-## Design Patterns
-
-- Structural Pattern [link](https://refactoring.guru/design-patterns/structural-patterns)
-- Creational Pattern [link](https://refactoring.guru/design-patterns/creational-patterns)
-- Behavioural Pattern [link] (https://refactoring.guru/design-patterns/behavioral-patterns)
-- SOLID Principles [link](https://medium.com/kayvan-kaseb/the-solid-principles-for-android-developers-75fd4ca3ef84) [link](https://medium.com/mindorks/solid-principles-explained-with-examples-79d1ce114ace)
+- Design Patterns [link](https://sourcemaking.com/design_patterns)
+- SOLID Principles [link1](https://medium.com/kayvan-kaseb/the-solid-principles-for-android-developers-75fd4ca3ef84) [link2](https://medium.com/mindorks/solid-principles-explained-with-examples-79d1ce114ace) [link3](https://howtodoinjava.com/best-practices/solid-principles/)
 
 ## Android Core
 
@@ -50,11 +43,11 @@
 - Bitmap Pool [link](https://blog.mindorks.com/how-to-use-bitmap-pool-in-android-56c71a55533c)
 
 ## Android Advance
-- Dependency Injection Dagger 2 [link](https://blog.mindorks.com/introduction-to-dagger-2-using-dependency-injection-in-android-part-2-b55857911bcd) [youtube](https://youtube.com/playlist?list=PLuR1PJnGR-Ih-HXnGSpnqjdhdvqcwhfFU)
-- Viewmodel and It's Internals
-- Coroutines
+- Dependency Injection Dagger 2 [link](https://blog.mindorks.com/introduction-to-dagger-2-using-dependency-injection-in-android-part-2-b55857911bcd), [youtube](https://youtube.com/playlist?list=PLuR1PJnGR-Ih-HXnGSpnqjdhdvqcwhfFU)
+- Viewmodel and It's Internals [link](https://betterprogramming.pub/everything-to-understand-about-viewmodel-400e8e637a58)
+- Coroutines [link](https://blog.mindorks.com/mastering-kotlin-coroutines-in-android-step-by-step-guide)
 - MVVM Architecture
-- Clean Code Architecture
+- Clean Code Architecture [link](https://proandroiddev.com/clean-architecture-data-flow-dependency-rule-615ffdd79e29)
 - RxJava
 
 MIT License
