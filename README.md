@@ -22,6 +22,7 @@
 - Serialization [link](java/serialization.pdf)
 - Design Patterns [link](https://sourcemaking.com/design_patterns)
 - SOLID Principles [link1](https://medium.com/kayvan-kaseb/the-solid-principles-for-android-developers-75fd4ca3ef84) [link2](https://medium.com/mindorks/solid-principles-explained-with-examples-79d1ce114ace) [link3](https://howtodoinjava.com/best-practices/solid-principles/)
+- Java Interview Questions [link](https://github.com/learning-zone/java-interview-questions)
 
 ## Kotlin
 
