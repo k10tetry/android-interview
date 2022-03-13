@@ -23,6 +23,10 @@
 - Design Patterns [link](https://sourcemaking.com/design_patterns)
 - SOLID Principles [link1](https://medium.com/kayvan-kaseb/the-solid-principles-for-android-developers-75fd4ca3ef84) [link2](https://medium.com/mindorks/solid-principles-explained-with-examples-79d1ce114ace) [link3](https://howtodoinjava.com/best-practices/solid-principles/)
 
+## Kotlin
+
+- Interview Questions [link](https://gist.github.com/paulfranco/4453383cc6df064d03087ce7aa5a0c8c)
+
 ## Android Core
 
 - Activity and Lifecycle [link](https://blog.mindorks.com/android-activity-lifecycle)
@@ -46,9 +50,11 @@
 - Dependency Injection Dagger 2 [link](https://blog.mindorks.com/introduction-to-dagger-2-using-dependency-injection-in-android-part-2-b55857911bcd), [youtube](https://youtube.com/playlist?list=PLuR1PJnGR-Ih-HXnGSpnqjdhdvqcwhfFU)
 - Viewmodel and It's Internals [link](https://betterprogramming.pub/everything-to-understand-about-viewmodel-400e8e637a58)
 - Coroutines [link](https://blog.mindorks.com/mastering-kotlin-coroutines-in-android-step-by-step-guide)
-- MVVM Architecture
+- MVVM Architecture [link](https://blog.mindorks.com/mvvm-architecture-android-tutorial-for-beginners-step-by-step-guide)
 - Clean Code Architecture [link](https://proandroiddev.com/clean-architecture-data-flow-dependency-rule-615ffdd79e29)
-- RxJava
+- RxJava [link](https://proandroiddev.com/exploring-rxjava-in-android-e52ed7ef32e2)
+- MVP Architecture [link](https://blog.mindorks.com/essential-guide-for-designing-your-android-app-architecture-mvp-part-1-74efaf1cda40)
+- Clean Code Architecture [youtube](https://www.youtube.com/watch?v=EF33KmyprEQ&t=2098s), [link](https://proandroiddev.com/clean-architecture-data-flow-dependency-rule-615ffdd79e29)
 
 MIT License
 
