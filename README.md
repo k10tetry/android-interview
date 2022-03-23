@@ -26,6 +26,7 @@
 
 ## Kotlin
 
+- Kotlin sealed class [link](https://blog.mindorks.com/learn-kotlin-sealed-classes)
 - Interview Questions [link](https://gist.github.com/paulfranco/4453383cc6df064d03087ce7aa5a0c8c)
 
 ## Android Core
@@ -50,6 +51,7 @@
 ## Android Advance
 - Dependency Injection Dagger 2 [link](https://blog.mindorks.com/introduction-to-dagger-2-using-dependency-injection-in-android-part-2-b55857911bcd), [youtube](https://youtube.com/playlist?list=PLuR1PJnGR-Ih-HXnGSpnqjdhdvqcwhfFU)
 - Viewmodel and It's Internals [link](https://betterprogramming.pub/everything-to-understand-about-viewmodel-400e8e637a58)
+- Viewmodel setValue vs postValue [link](https://blog.mindorks.com/livedata-setvalue-vs-postvalue-in-android)
 - Coroutines [link](https://blog.mindorks.com/mastering-kotlin-coroutines-in-android-step-by-step-guide)
 - MVVM Architecture [link](https://blog.mindorks.com/mvvm-architecture-android-tutorial-for-beginners-step-by-step-guide)
 - Clean Code Architecture [link](https://proandroiddev.com/clean-architecture-data-flow-dependency-rule-615ffdd79e29)
