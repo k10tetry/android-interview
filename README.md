@@ -74,6 +74,7 @@
 - MVP Architecture [link](https://blog.mindorks.com/essential-guide-for-designing-your-android-app-architecture-mvp-part-1-74efaf1cda40)
 - Clean Code Architecture [youtube](https://www.youtube.com/watch?v=EF33KmyprEQ&t=2098s), [link](https://proandroiddev.com/clean-architecture-data-flow-dependency-rule-615ffdd79e29)
 - LiveData setValue vs postValue [link](https://blog.mindorks.com/livedata-setvalue-vs-postvalue-in-android)
+- Android System Design [link](https://proandroiddev.com/a-simple-framework-for-mobile-system-design-interviews-89f6f4134b84) [link](https://medium.com/geekculture/system-design-interview-for-mobile-engineers-ce712d6ac2c1)
 
 MIT License
 
