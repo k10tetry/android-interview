@@ -20,8 +20,19 @@
 - Object, String, StringBuffer, StringBuilder, Wrapper Classes, Autoboxing and Auto Unboxing [link](java/object_string_stringbuffer_stringbuilder_wrapper_autoboxing.pdf)
 - File, FileWritter, FileReader, BufferedReader, BufferedWritter, PrintWritter [link](java/file_filereader_filewritter.pdf)
 - Serialization [link](java/serialization.pdf)
-- Design Patterns [link](https://sourcemaking.com/design_patterns)
-- SOLID Principles [link1](https://medium.com/kayvan-kaseb/the-solid-principles-for-android-developers-75fd4ca3ef84) [link2](https://medium.com/mindorks/solid-principles-explained-with-examples-79d1ce114ace) [link3](https://howtodoinjava.com/best-practices/solid-principles/)
+
+## Java Advance
+
+- Java Design Patterns
+    - Builder Pattern [link](https://dzone.com/articles/design-patterns-the-builder-pattern)
+    - Signleton Pattern [link](https://medium.com/@cancerian0684/singleton-design-pattern-and-how-to-make-it-thread-safe-b207c0e7e368)
+    - Factory Pattern [link](https://medium.com/nerd-for-tech/understanding-factory-method-design-pattern-4d7ba8f0dfc4) [link](https://medium.com/geekculture/overview-of-factory-method-design-pattern-d3a6fe908ea4)
+    - Facade Pattern [link](https://medium.com/@pramodayajayalath/facade-design-pattern-b75b4e79b9ff)
+    - Chain of Responsibility [link](https://medium.com/geekculture/understanding-the-chain-of-responsibility-pattern-d729ef84621c)
+    - Iterator Pattern [youtube](https://www.youtube.com/watch?v=VKIzUuMdmag)
+- SOLID Principles [link1](https://medium.com/kayvan-kaseb/the-solid-principles-for-android-developers-75fd4ca3ef84) [link2](https://medium.com/mindorks/solid-principles-explained-with-examples-79d1ce114ace) [link3](https://howtodoinjava.com/best-practices/solid-principles/) [link4](https://www.educative.io/edpresso/what-are-the-solid-principles-in-java)
+- Internal working of Hashmap [link](https://medium.com/javarevisited/internal-working-of-hashmap-in-java-97aeac3c7beb)
+- Internal working of ArrayList [link](https://javagoal.com/internal-working-of-arraylist-in-java/)
 - Java Interview Questions [link](https://github.com/learning-zone/java-interview-questions)
 
 ## Kotlin
@@ -62,6 +73,7 @@
 - RxJava [link](https://proandroiddev.com/exploring-rxjava-in-android-e52ed7ef32e2)
 - MVP Architecture [link](https://blog.mindorks.com/essential-guide-for-designing-your-android-app-architecture-mvp-part-1-74efaf1cda40)
 - Clean Code Architecture [youtube](https://www.youtube.com/watch?v=EF33KmyprEQ&t=2098s), [link](https://proandroiddev.com/clean-architecture-data-flow-dependency-rule-615ffdd79e29)
+- LiveData setValue vs postValue [link](https://blog.mindorks.com/livedata-setvalue-vs-postvalue-in-android)
 
 MIT License
 
