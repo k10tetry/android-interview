@@ -1,6 +1,6 @@
 # Android Interview
 
-## Java
+## Java Notes
 
 - Identifiers, Reserve Words, Data Types, Literals [link](java/identifiers_keywords_datatypes_literals.pdf)
 - Array, Types of Variables, Var-Args [link](java/array_variables_varargs.pdf)
@@ -21,7 +21,7 @@
 - File, FileWritter, FileReader, BufferedReader, BufferedWritter, PrintWritter [link](java/file_filereader_filewritter.pdf)
 - Serialization [link](java/serialization.pdf)
 
-## Java Advance
+## Java Advance Topics
 
 - Java Design Patterns
     - Builder Pattern [link](https://dzone.com/articles/design-patterns-the-builder-pattern)
@@ -30,17 +30,21 @@
     - Facade Pattern [link](https://medium.com/@pramodayajayalath/facade-design-pattern-b75b4e79b9ff)
     - Chain of Responsibility [link](https://medium.com/geekculture/understanding-the-chain-of-responsibility-pattern-d729ef84621c)
     - Iterator Pattern [youtube](https://www.youtube.com/watch?v=VKIzUuMdmag)
+    - Observer Pattern [link](https://howtodoinjava.com/design-patterns/behavioral/observer-design-pattern/)
 - SOLID Principles [link1](https://medium.com/kayvan-kaseb/the-solid-principles-for-android-developers-75fd4ca3ef84) [link2](https://medium.com/mindorks/solid-principles-explained-with-examples-79d1ce114ace) [link3](https://howtodoinjava.com/best-practices/solid-principles/) [link4](https://www.educative.io/edpresso/what-are-the-solid-principles-in-java)
 - Internal working of Hashmap [link](https://medium.com/javarevisited/internal-working-of-hashmap-in-java-97aeac3c7beb)
 - Internal working of ArrayList [link](https://javagoal.com/internal-working-of-arraylist-in-java/)
 - Java Interview Questions [link](https://github.com/learning-zone/java-interview-questions)
 
-## Kotlin
+## Kotlin Topics
 
 - Kotlin sealed class [link](https://blog.mindorks.com/learn-kotlin-sealed-classes)
 - Lateinit vs Lazy [link](https://blog.mindorks.com/learn-kotlin-lateinit-vs-lazy)
 - Higher Order Function and Lambdas [link](https://blog.mindorks.com/understanding-higher-order-functions-and-lambdas-in-kotlin)
-- Inline functions [link](https://blog.mindorks.com/understanding-inline-noinline-and-crossinline-in-kotlin)
+- Inline, NoInline, CrossInline functions [link](https://blog.mindorks.com/understanding-inline-noinline-and-crossinline-in-kotlin)
+- Primary constructor vs Secondary Constructor [link](https://blog.mindorks.com/primary-and-secondary-constructors-in-kotlin)
+- Data Class [link](https://medium.com/kayvan-kaseb/kotlin-data-classes-dc8324d80543)
+- Extension Functions [link](https://medium.com/mindorks/extension-function-in-kotlin-d52d1525550)
 - Interview Questions [link](https://gist.github.com/paulfranco/4453383cc6df064d03087ce7aa5a0c8c)
 
 ## Android Core
@@ -62,6 +66,7 @@
 - Scoped Storage [link](https://blog.mindorks.com/understanding-the-scoped-storage-in-android)
 - Parcelable vs Serializable [link](https://medium.com/android-news/parcelable-vs-serializable-6a2556d51538)
 - Bitmap Pool [link](https://blog.mindorks.com/how-to-use-bitmap-pool-in-android-56c71a55533c)
+- ConstraintLayout [link](https://medium.com/geekculture/android-constraintlayout-all-of-the-things-7b74ba9a366b)
 
 ## Android Advance
 - Dependency Injection Dagger 2 [link](https://blog.mindorks.com/introduction-to-dagger-2-using-dependency-injection-in-android-part-2-b55857911bcd), [youtube](https://youtube.com/playlist?list=PLuR1PJnGR-Ih-HXnGSpnqjdhdvqcwhfFU)
