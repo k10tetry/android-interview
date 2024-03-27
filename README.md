@@ -69,7 +69,7 @@
 - ConstraintLayout [link](https://medium.com/geekculture/android-constraintlayout-all-of-the-things-7b74ba9a366b)
 
 ## Android Advance
-- Dependency Injection Dagger 2 [link](https://blog.mindorks.com/introduction-to-dagger-2-using-dependency-injection-in-android-part-2-b55857911bcd), [youtube](https://youtube.com/playlist?list=PLuR1PJnGR-Ih-HXnGSpnqjdhdvqcwhfFU)
+- Dependency Injection Dagger 2 [youtube](https://www.youtube.com/watch?v=DtzQkBp2M5M&list=PLRKyZvuMYSIPwjYw1bt_7u7nEwe6vATQd&ab_channel=CheezyCode), [youtube](https://youtube.com/playlist?list=PLuR1PJnGR-Ih-HXnGSpnqjdhdvqcwhfFU)
 - Viewmodel and It's Internals [link](https://betterprogramming.pub/everything-to-understand-about-viewmodel-400e8e637a58) [link](https://blog.mindorks.com/android-viewmodels-under-the-hood)
 - Coroutines [link](https://blog.mindorks.com/mastering-kotlin-coroutines-in-android-step-by-step-guide)
 - MVVM Architecture [link](https://blog.mindorks.com/mvvm-architecture-android-tutorial-for-beginners-step-by-step-guide)
@@ -79,6 +79,7 @@
 - Clean Code Architecture [youtube](https://www.youtube.com/watch?v=EF33KmyprEQ&t=2098s), [link](https://proandroiddev.com/clean-architecture-data-flow-dependency-rule-615ffdd79e29)
 - LiveData setValue vs postValue [link](https://blog.mindorks.com/livedata-setvalue-vs-postvalue-in-android)
 - Android System Design [link](https://proandroiddev.com/a-simple-framework-for-mobile-system-design-interviews-89f6f4134b84) [link](https://medium.com/geekculture/system-design-interview-for-mobile-engineers-ce712d6ac2c1)
+- Annotation Processor [link]()
 
 MIT License
 
