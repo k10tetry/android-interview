@@ -31,7 +31,7 @@
     - Chain of Responsibility [link](https://medium.com/geekculture/understanding-the-chain-of-responsibility-pattern-d729ef84621c)
     - Iterator Pattern [youtube](https://www.youtube.com/watch?v=VKIzUuMdmag)
     - Observer Pattern [link](https://howtodoinjava.com/design-patterns/behavioral/observer-design-pattern/)
-- SOLID Principles [link1](https://medium.com/kayvan-kaseb/the-solid-principles-for-android-developers-75fd4ca3ef84) [link2](https://medium.com/mindorks/solid-principles-explained-with-examples-79d1ce114ace) [link3](https://howtodoinjava.com/best-practices/solid-principles/) [link4](https://www.educative.io/edpresso/what-are-the-solid-principles-in-java)
+- SOLID Principles [link](https://medium.com/mindorks/solid-principles-explained-with-examples-79d1ce114ace)
 - Internal working of Hashmap [link](https://medium.com/javarevisited/internal-working-of-hashmap-in-java-97aeac3c7beb)
 - Internal working of ArrayList [link](https://javagoal.com/internal-working-of-arraylist-in-java/)
 - Java Interview Questions [link](https://github.com/learning-zone/java-interview-questions)
