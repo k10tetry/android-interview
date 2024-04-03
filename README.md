@@ -49,8 +49,8 @@
 
 ## Android Core
 
-- Activity [link #1](https://blog.mindorks.com/android-activity-lifecycle)[link #2](https://developer.android.com/guide/components/activities/intro-activities)
-- Fragment [link #1](https://medium.com/androiddevelopers/the-android-lifecycle-cheat-sheet-part-iii-fragments-afc87d4f37fd)[link #2](https://developer.android.com/develop/background-work/services)
+- Activity [link](https://blog.mindorks.com/android-activity-lifecycle) | [link](https://developer.android.com/guide/components/activities/intro-activities)
+- Fragment [link](https://medium.com/androiddevelopers/the-android-lifecycle-cheat-sheet-part-iii-fragments-afc87d4f37fd) | [link](https://developer.android.com/develop/background-work/services)
 - Android Application Components [link](https://www.techplayon.com/applications-component/)
 - Context [link](https://blog.mindorks.com/understanding-context-in-android-application-330913e32514)
 - Android Manifest [link](https://developer.android.com/guide/topics/manifest/manifest-intro)
@@ -58,7 +58,7 @@
 - Launch Modes [link](https://medium.com/mindorks/android-launch-mode-787d28952959)
 - Intent [link](https://blog.mindorks.com/what-are-intents-in-android)
 - Broadcast Receivers and LocalBroadcast Manager [link](https://blog.mindorks.com/using-localbroadcastmanager-in-android)
-- Service and Intent Service [link #1](https://blog.mindorks.com/service-vs-intentservice-in-android)[link #2](https://developer.android.com/develop/background-work/services)
+- Service and Intent Service [link](https://blog.mindorks.com/service-vs-intentservice-in-android) | [link ](https://developer.android.com/develop/background-work/services)
 - JobScheduler [link](https://medium.com/@kiitvishal89/android-jobscheduler-schedule-your-jobs-like-a-master-cfa0d80e5f10)
 - RecycleView Internals [link](https://blog.mindorks.com/how-does-recyclerview-work-internally)
 - Content Provider [link](https://blog.mindorks.com/android-content-provider-in-kotlin)
@@ -69,18 +69,17 @@
 - ConstraintLayout [link](https://medium.com/geekculture/android-constraintlayout-all-of-the-things-7b74ba9a366b)
 
 ## Android Advance
-- Dependency Injection Dagger 2 [link #1](https://www.youtube.com/watch?v=DtzQkBp2M5M&list=PLRKyZvuMYSIPwjYw1bt_7u7nEwe6vATQd&ab_channel=CheezyCode), [link #2](https://youtube.com/playlist?list=PLuR1PJnGR-Ih-HXnGSpnqjdhdvqcwhfFU)
-- Hilt [link #1](https://www.youtube.com/playlist?list=PLRKyZvuMYSIOSigPsU9_tbO0uDyaZ8Ycf)
+- Dependency Injection Dagger 2 [youtube](https://www.youtube.com/watch?v=DtzQkBp2M5M&list=PLRKyZvuMYSIPwjYw1bt_7u7nEwe6vATQd&ab_channel=CheezyCode) | [youtube](https://youtube.com/playlist?list=PLuR1PJnGR-Ih-HXnGSpnqjdhdvqcwhfFU)
+- Hilt [yooutube](https://www.youtube.com/playlist?list=PLRKyZvuMYSIOSigPsU9_tbO0uDyaZ8Ycf)
 - Viewmodel and It's Internals [link](https://betterprogramming.pub/everything-to-understand-about-viewmodel-400e8e637a58) [link](https://blog.mindorks.com/android-viewmodels-under-the-hood)
-- Coroutines [link #1](https://blog.mindorks.com/mastering-kotlin-coroutines-in-android-step-by-step-guide), [link #2](https://www.youtube.com/playlist?list=PLRKyZvuMYSIN-P6oJDEu3zGLl5UQNvx9y), [link #3](https://www.youtube.com/watch?v=YrrUCSi72E8)
+- Coroutines [link](https://blog.mindorks.com/mastering-kotlin-coroutines-in-android-step-by-step-guide) | [youtube](https://www.youtube.com/playlist?list=PLRKyZvuMYSIN-P6oJDEu3zGLl5UQNvx9y) | [youtube](https://www.youtube.com/watch?v=YrrUCSi72E8)
 - MVVM Architecture [link](https://blog.mindorks.com/mvvm-architecture-android-tutorial-for-beginners-step-by-step-guide)
-- Clean Code Architecture [link](https://proandroiddev.com/clean-architecture-data-flow-dependency-rule-615ffdd79e29)
 - RxJava [link](https://proandroiddev.com/exploring-rxjava-in-android-e52ed7ef32e2)
 - MVP Architecture [link](https://blog.mindorks.com/essential-guide-for-designing-your-android-app-architecture-mvp-part-1-74efaf1cda40)
-- Clean Code Architecture [youtube](https://www.youtube.com/watch?v=EF33KmyprEQ&t=2098s), [link](https://proandroiddev.com/clean-architecture-data-flow-dependency-rule-615ffdd79e29)
+- Clean Code Architecture [youtube](https://www.youtube.com/watch?v=EF33KmyprEQ&t=2098s) | [link](https://proandroiddev.com/clean-architecture-data-flow-dependency-rule-615ffdd79e29)
 - LiveData setValue vs postValue [link](https://blog.mindorks.com/livedata-setvalue-vs-postvalue-in-android)
-- Android System Design [link](https://proandroiddev.com/a-simple-framework-for-mobile-system-design-interviews-89f6f4134b84) [link](https://medium.com/geekculture/system-design-interview-for-mobile-engineers-ce712d6ac2c1)
-- Annotation Processor [link #1](https://www.youtube.com/watch?v=IPlDL4EsY08), [link #2](https://medium.com/@zuhayr.codes/annotation-processing-in-android-from-scratch-part-2-9a21172b5383)
+- Android System Design [link](https://proandroiddev.com/a-simple-framework-for-mobile-system-design-interviews-89f6f4134b84) | [link](https://medium.com/geekculture/system-design-interview-for-mobile-engineers-ce712d6ac2c1)
+- Annotation Processor [youtube](https://www.youtube.com/watch?v=IPlDL4EsY08) | [link](https://medium.com/@zuhayr.codes/annotation-processing-in-android-from-scratch-part-2-9a21172b5383)
 
 MIT License
 
