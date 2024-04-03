@@ -50,7 +50,6 @@
 ## Android Core
 
 - Activity [link](https://blog.mindorks.com/android-activity-lifecycle) | [link](https://developer.android.com/guide/components/activities/intro-activities) | [link](https://medium.com/@JoseAlcerreca/the-android-lifecycle-cheat-sheet-part-i-single-activities-e49fd3d202ab)
-- Fragment [link](https://medium.com/androiddevelopers/the-android-lifecycle-cheat-sheet-part-iii-fragments-afc87d4f37fd)
 - Tasks & Back Stack [link](https://developer.android.com/guide/components/activities/tasks-and-back-stack)
 - Android Application Components [link](https://www.techplayon.com/applications-component/)
 - Context [link](https://blog.mindorks.com/understanding-context-in-android-application-330913e32514)
@@ -68,6 +67,7 @@
 - Parcelable vs Serializable [link](https://medium.com/android-news/parcelable-vs-serializable-6a2556d51538)
 - Bitmap Pool [link](https://blog.mindorks.com/how-to-use-bitmap-pool-in-android-56c71a55533c)
 - ConstraintLayout [link](https://medium.com/geekculture/android-constraintlayout-all-of-the-things-7b74ba9a366b)
+- App Startup [link](https://developer.android.com/topic/performance/vitals/launch-time)
 
 ## Android Advance
 - Dependency Injection Dagger 2 [youtube](https://www.youtube.com/watch?v=DtzQkBp2M5M&list=PLRKyZvuMYSIPwjYw1bt_7u7nEwe6vATQd&ab_channel=CheezyCode) | [youtube](https://youtube.com/playlist?list=PLuR1PJnGR-Ih-HXnGSpnqjdhdvqcwhfFU)
