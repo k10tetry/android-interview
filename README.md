@@ -49,8 +49,9 @@
 
 ## Android Core
 
-- Activity [link](https://blog.mindorks.com/android-activity-lifecycle) | [link](https://developer.android.com/guide/components/activities/intro-activities)
-- Fragment [link](https://medium.com/androiddevelopers/the-android-lifecycle-cheat-sheet-part-iii-fragments-afc87d4f37fd) | [link](https://developer.android.com/develop/background-work/services)
+- Activity [link](https://blog.mindorks.com/android-activity-lifecycle) | [link](https://developer.android.com/guide/components/activities/intro-activities) | [link](https://medium.com/@JoseAlcerreca/the-android-lifecycle-cheat-sheet-part-i-single-activities-e49fd3d202ab)
+- Fragment [link](https://medium.com/androiddevelopers/the-android-lifecycle-cheat-sheet-part-iii-fragments-afc87d4f37fd)
+- Tasks & Back Stack [link](https://developer.android.com/guide/components/activities/tasks-and-back-stack)
 - Android Application Components [link](https://www.techplayon.com/applications-component/)
 - Context [link](https://blog.mindorks.com/understanding-context-in-android-application-330913e32514)
 - Android Manifest [link](https://developer.android.com/guide/topics/manifest/manifest-intro)
