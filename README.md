@@ -51,7 +51,6 @@
 
 - Activity [link](https://blog.mindorks.com/android-activity-lifecycle) | [link](https://developer.android.com/guide/components/activities/intro-activities) | [link](https://medium.com/@JoseAlcerreca/the-android-lifecycle-cheat-sheet-part-i-single-activities-e49fd3d202ab)
 - Tasks & Back Stack [link](https://developer.android.com/guide/components/activities/tasks-and-back-stack)
-- Android Application Components [link](https://www.techplayon.com/applications-component/)
 - Context [link](https://blog.mindorks.com/understanding-context-in-android-application-330913e32514)
 - Android Manifest [link](https://developer.android.com/guide/topics/manifest/manifest-intro)
 - Fragment and Lifecycle [link](https://blog.mindorks.com/android-fragments-and-its-lifecycle)
@@ -81,6 +80,8 @@
 - LiveData setValue vs postValue [link](https://blog.mindorks.com/livedata-setvalue-vs-postvalue-in-android)
 - Android System Design [link](https://proandroiddev.com/a-simple-framework-for-mobile-system-design-interviews-89f6f4134b84) | [link](https://medium.com/geekculture/system-design-interview-for-mobile-engineers-ce712d6ac2c1)
 - Annotation Processor [youtube](https://www.youtube.com/watch?v=IPlDL4EsY08) | [link](https://medium.com/@zuhayr.codes/annotation-processing-in-android-from-scratch-part-2-9a21172b5383)
+- Memory Leaks [youtube](https://www.youtube.com/watch?v=VvkRe9vP5Oc) | [link](https://medium.com/make-android/memory-leak-in-android-avoid-upfront-or-fix-later-70b4c22fc2f0)
+- Android Studio Profiler [youtube](https://www.youtube.com/watch?v=LGVbpobV-Yg) | [link](https://diyavijay.medium.com/android-memory-profiler-cdd11efa44b3)
 
 MIT License
 
