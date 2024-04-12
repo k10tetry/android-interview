@@ -1,7 +1,7 @@
 # Android Interview
 
 | Java Topics | PDF Link |
-| ----------- | -------- |
+| :---------- | :------- |
 | Identifiers, Reserve Words, Data Types, Literals | [link](java/identifiers_keywords_datatypes_literals.pdf) |
 | Array, Types of Variables, Var-Args | [link](java/array_variables_varargs.pdf) |
 | Main Method, Java Coding Standards, Operators and Assignments | [link](java/main_method_coding_standard_operators_assignments.pdf) |
