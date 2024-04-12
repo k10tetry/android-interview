@@ -37,14 +37,31 @@
 
  Kotlin Topics | Links
  :------------ | :---- 
+ Kotlin Pair & Triple | [link](https://blog.mindorks.com/pair-and-triple-in-kotlin/)
+ Kotlin Init Block | [link](https://blog.mindorks.com/understanding-init-block-in-kotlin/)
+ Kotlin Scope Functions | [link](https://blog.mindorks.com/using-scoped-functions-in-kotlin-let-run-with-also-apply/)
+ Interface in Kotlin | [link](https://blog.mindorks.com/kotlin-interfaces/)
+ Kotlin Property Delegation | [link](https://blog.mindorks.com/property-delegation-in-kotlin/)
+ Kotlin Operator Overloading | [link](https://blog.mindorks.com/operator-overloading-in-kotlin/)
+ Kotlin Reified | [link](https://blog.mindorks.com/what-are-reified-types-in-kotlin/)
+ Kotlin Collection Functions | [link](https://blog.mindorks.com/kotlin-collection-functions/)
+ Kotlin Type Alias | [link](https://blog.mindorks.com/type-aliases-in-kotlin/)
  Kotlin sealed class | [link](https://blog.mindorks.com/learn-kotlin-sealed-classes)
  Lateinit vs Lazy | [link](https://blog.mindorks.com/learn-kotlin-lateinit-vs-lazy)
+ Open Keyword Kotlin | [link](https://blog.mindorks.com/understanding-open-keyword-in-kotlin/)
+ Kotlin Visibility Modifier | [link](https://blog.mindorks.com/learn-kotlin-visibility-modifiers-private-protected-internal-public/)
  Higher Order Function and Lambdas | [link](https://blog.mindorks.com/understanding-higher-order-functions-and-lambdas-in-kotlin)
  Inline, NoInline, CrossInline functions | [link](https://blog.mindorks.com/understanding-inline-noinline-and-crossinline-in-kotlin)
  Primary constructor vs Secondary Constructor | [link](https://blog.mindorks.com/primary-and-secondary-constructors-in-kotlin)
  Data Class | [link](https://medium.com/kayvan-kaseb/kotlin-data-classes-dc8324d80543)
  Extension Functions | [link](https://medium.com/mindorks/extension-function-in-kotlin-d52d1525550)
- Interview Questions | [link](https://gist.github.com/paulfranco/4453383cc6df064d03087ce7aa5a0c8c)
+ Extension Functions vs Static Utility Class | [link](https://blog.mindorks.com/extension-functions-vs-static-utility-class/)
+ Map vs FlatMap | [link](https://blog.mindorks.com/flatmap-vs-map-in-kotlin/)
+ List vs Array | [link](https://blog.mindorks.com/difference-between-list-and-array-types-in-kotlin/)
+ Const vs Val | [link](https://blog.mindorks.com/what-is-the-difference-between-const-and-val/)
+ == vs === | [link](https://amitshekhar.me/blog/structural-and-referential-equality-in-kotlin)
+ @JvmField | [link](https://amitshekhar.me/blog/jvmfield-annotation-in-kotlin)
+ Interview Questions | [link](https://gist.github.com/paulfranco/4453383cc6df064d03087ce7aa5a0c8c), [link](https://blog.mindorks.com/kotlin-android-interview-questions/)
 
  Android Core | Links
  :----------- | :---- 
@@ -73,6 +90,7 @@
  Hilt | [yooutube](https://www.youtube.com/playlist?list=PLRKyZvuMYSIOSigPsU9_tbO0uDyaZ8Ycf)
  Viewmodel and It's Internals | [link](https://betterprogramming.pub/everything-to-understand-about-viewmodel-400e8e637a58), [link](https://blog.mindorks.com/android-viewmodels-under-the-hood)
  Coroutines | [link](https://blog.mindorks.com/mastering-kotlin-coroutines-in-android-step-by-step-guide), [youtube](https://www.youtube.com/playlist?list=PLRKyZvuMYSIN-P6oJDEu3zGLl5UQNvx9y), [youtube](https://www.youtube.com/watch?v=YrrUCSi72E8)
+ Coroutine Exception Handling | [link](https://blog.mindorks.com/exception-handling-in-kotlin-coroutines/)
  MVVM Architecture | [link](https://blog.mindorks.com/mvvm-architecture-android-tutorial-for-beginners-step-by-step-guide)
  RxJava | [link](https://proandroiddev.com/exploring-rxjava-in-android-e52ed7ef32e2)
  MVP Architecture | [link](https://blog.mindorks.com/essential-guide-for-designing-your-android-app-architecture-mvp-part-1-74efaf1cda40)
@@ -82,6 +100,7 @@
  Annotation Processor | [youtube](https://www.youtube.com/watch?v=IPlDL4EsY08), [link](https://medium.com/@zuhayr.codes/annotation-processing-in-android-from-scratch-part-2-9a21172b5383)
  Memory Leaks | [youtube](https://www.youtube.com/watch?v=VvkRe9vP5Oc), [link](https://medium.com/make-android/memory-leak-in-android-avoid-upfront-or-fix-later-70b4c22fc2f0)
  Android Studio Profiler | [youtube](https://www.youtube.com/watch?v=LGVbpobV-Yg), [link](https://diyavijay.medium.com/android-memory-profiler-cdd11efa44b3)
+ Jacoco | [link](https://blog.mindorks.com/generate-global-code-coverage-report-in-android-development-using-jacoco-plugin/)
 
 MIT License
 
