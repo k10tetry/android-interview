@@ -1,39 +1,39 @@
 # Android Interview
 
-| Java Core Topics | PDF Link |
-| :---------- | :------- |
-| Identifiers, Reserve Words, Data Types, Literals | [link](java/identifiers_keywords_datatypes_literals.pdf) |
-| Array, Types of Variables, Var-Args | [link](java/array_variables_varargs.pdf) |
-| Main Method, Java Coding Standards, Operators and Assignments | [link](java/main_method_coding_standard_operators_assignments.pdf) |
-| Flow Control | [link](java/flow_control.pdf) |
-| Declaration and Access Modifiers | [link](java/declaration_access_modifiers.pdf) |
-| Interfaces | [link](java/interfaces.pdf) |
-| Oops | [link](java/oops.pdf) |
-| Collection Framework and Collections Utility Class | [link](java/collection_framework_collections_utility.pdf) |
-| Generics | [link](java/generics.pdf) |
-| Multithreading | [link](java/multithreading.pdf) |
-| Regular Expressions and Enums | [link](java/regular_expressions_enums.pdf) |
-| Internationlization and Development | [link](java/internationlization_development.pdf) |
-| Garbage Collection and Assertions | [link](java/garbage_collection_assertions.pdf) |
-| Exception Handling | [link](java/exception_handling.pdf) |
-| Inner Class | [link](java/inner_class.pdf) |
-| Object, String, StringBuffer, StringBuilder, Wrapper Classes, Autoboxing and Auto Unboxing | [link](java/object_string_stringbuffer_stringbuilder_wrapper_autoboxing.pdf) |
-| File, FileWritter, FileReader, BufferedReader, BufferedWritter, PrintWritter | [link](java/file_filereader_filewritter.pdf) |
-| Serialization | [link](java/serialization.pdf) |
+ Java Core Topics | PDF Link
+ :---------- | :-------
+ Identifiers, Reserve Words, Data Types, Literals | [link](java/identifiers_keywords_datatypes_literals.pdf)
+ Array, Types of Variables, Var-Args | [link](java/array_variables_varargs.pdf) |
+ Main Method, Java Coding Standards, Operators and Assignments | [link](java/main_method_coding_standard_operators_assignments.pdf)
+ Flow Control | [link](java/flow_control.pdf)
+ Declaration and Access Modifiers | [link](java/declaration_access_modifiers.pdf)
+ Interfaces | [link](java/interfaces.pdf)
+ Oops | [link](java/oops.pdf)
+ Collection Framework and Collections Utility Class | [link](java/collection_framework_collections_utility.pdf)
+ Generics | [link](java/generics.pdf)
+ Multithreading | [link](java/multithreading.pdf)
+ Regular Expressions and Enums | [link](java/regular_expressions_enums.pdf)
+ Internationlization and Development | [link](java/internationlization_development.pdf)
+ Garbage Collection and Assertions | [link](java/garbage_collection_assertions.pdf)
+ Exception Handling | [link](java/exception_handling.pdf)
+ Inner Class | [link](java/inner_class.pdf)
+ Object, String, StringBuffer, StringBuilder, Wrapper Classes, Autoboxing and Auto Unboxing | [link](java/object_string_stringbuffer_stringbuilder_wrapper_autoboxing.pdf)
+ File, FileWritter, FileReader, BufferedReader, BufferedWritter, PrintWritter | [link](java/file_filereader_filewritter.pdf)
+ Serialization | [link](java/serialization.pdf)
 
-| Java Advance Topics | Links |
-| :------------------ | :---- |
-| Builder Pattern | [link](https://dzone.com/articles/design-patterns-the-builder-pattern) |
-| Signleton Pattern | [link](https://medium.com/@cancerian0684/singleton-design-pattern-and-how-to-make-it-thread-safe-b207c0e7e368) |
-| Factory Pattern | [link](https://medium.com/nerd-for-tech/understanding-factory-method-design-pattern-4d7ba8f0dfc4), [link](https://medium.com/geekculture/overview-of-factory-method-design-pattern-d3a6fe908ea4) |
-| Facade Pattern | [link](https://medium.com/@pramodayajayalath/facade-design-pattern-b75b4e79b9ff) |
-| Chain of Responsibility | [link](https://medium.com/geekculture/understanding-the-chain-of-responsibility-pattern-d729ef84621c) |
-| Iterator Pattern | [youtube](https://www.youtube.com/watch?v=VKIzUuMdmag) |
-| Observer Pattern | [link](https://howtodoinjava.com/design-patterns/behavioral/observer-design-pattern/) |
-| SOLID Principles | [link](https://medium.com/mindorks/solid-principles-explained-with-examples-79d1ce114ace) |
-| Internal working of Hashmap | [link](https://medium.com/javarevisited/internal-working-of-hashmap-in-java-97aeac3c7beb) |
-| Internal working of ArrayList | [link](https://javagoal.com/internal-working-of-arraylist-in-java/) |
-| Java Interview Questions | [link](https://github.com/learning-zone/java-interview-questions) |
+ Java Advance Topics | Links
+ :------------------ | :----
+ Builder Pattern | [link](https://dzone.com/articles/design-patterns-the-builder-pattern)
+ Signleton Pattern | [link](https://medium.com/@cancerian0684/singleton-design-pattern-and-how-to-make-it-thread-safe-b207c0e7e368)
+ Factory Pattern | [link](https://medium.com/nerd-for-tech/understanding-factory-method-design-pattern-4d7ba8f0dfc4), [link](https://medium.com/geekculture/overview-of-factory-method-design-pattern-d3a6fe908ea4)
+ Facade Pattern | [link](https://medium.com/@pramodayajayalath/facade-design-pattern-b75b4e79b9ff)
+ Chain of Responsibility | [link](https://medium.com/geekculture/understanding-the-chain-of-responsibility-pattern-d729ef84621c)
+ Iterator Pattern | [youtube](https://www.youtube.com/watch?v=VKIzUuMdmag)
+ Observer Pattern | [link](https://howtodoinjava.com/design-patterns/behavioral/observer-design-pattern/)
+ SOLID Principles | [link](https://medium.com/mindorks/solid-principles-explained-with-examples-79d1ce114ace)
+ Internal working of Hashmap | [link](https://medium.com/javarevisited/internal-working-of-hashmap-in-java-97aeac3c7beb)
+ Internal working of ArrayList | [link](https://javagoal.com/internal-working-of-arraylist-in-java/)
+ Java Interview Questions | [link](https://github.com/learning-zone/java-interview-questions)
 
 ## Kotlin Topics
 
