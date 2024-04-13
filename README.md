@@ -38,8 +38,8 @@
  Kotlin Topics | Links | Status
  :------------ | :---- | :----:
  Kotlin Pair & Triple | [link](https://blog.mindorks.com/pair-and-triple-in-kotlin/) | :white_check_mark:
- Kotlin Init Block | [link](https://blog.mindorks.com/understanding-init-block-in-kotlin/)
- Kotlin Scope Functions | [link](https://blog.mindorks.com/using-scoped-functions-in-kotlin-let-run-with-also-apply/)
+ Kotlin Init Block | [link](https://blog.mindorks.com/understanding-init-block-in-kotlin/) | :white_check_mark:
+ Kotlin Scope Functions | [link](https://blog.mindorks.com/using-scoped-functions-in-kotlin-let-run-with-also-apply/) | :white_check_mark:
  Interface in Kotlin | [link](https://blog.mindorks.com/kotlin-interfaces/)
  Kotlin Property Delegation | [link](https://blog.mindorks.com/property-delegation-in-kotlin/)
  Kotlin Operator Overloading | [link](https://blog.mindorks.com/operator-overloading-in-kotlin/)
