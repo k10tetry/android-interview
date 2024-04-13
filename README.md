@@ -36,7 +36,7 @@
  Java Interview Questions | [link](https://github.com/learning-zone/java-interview-questions)
 
  Kotlin Topics | Links | Status
- :------------ | :---- | :-----
+ :------------ | :---- | :----:
  Kotlin Pair & Triple | [link](https://blog.mindorks.com/pair-and-triple-in-kotlin/) | :white_check_mark:
  Kotlin Init Block | [link](https://blog.mindorks.com/understanding-init-block-in-kotlin/)
  Kotlin Scope Functions | [link](https://blog.mindorks.com/using-scoped-functions-in-kotlin-let-run-with-also-apply/)
