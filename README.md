@@ -40,8 +40,8 @@
  Kotlin Pair & Triple | [link](https://blog.mindorks.com/pair-and-triple-in-kotlin/) | :white_check_mark:
  Kotlin Init Block | [link](https://blog.mindorks.com/understanding-init-block-in-kotlin/) | :white_check_mark:
  Kotlin Scope Functions | [link](https://blog.mindorks.com/using-scoped-functions-in-kotlin-let-run-with-also-apply/) | :white_check_mark:
- Interface in Kotlin | [link](https://blog.mindorks.com/kotlin-interfaces/)
- Kotlin Property Delegation | [link](https://blog.mindorks.com/property-delegation-in-kotlin/)
+ Interface in Kotlin | [link](https://blog.mindorks.com/kotlin-interfaces/) | :white_check_mark:
+ Kotlin Property Delegation | [link](https://blog.mindorks.com/property-delegation-in-kotlin/) | :white_check_mark:
  Kotlin Operator Overloading | [link](https://blog.mindorks.com/operator-overloading-in-kotlin/)
  Kotlin Reified | [link](https://blog.mindorks.com/what-are-reified-types-in-kotlin/)
  Kotlin Collection Functions | [link](https://blog.mindorks.com/kotlin-collection-functions/)
