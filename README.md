@@ -23,13 +23,14 @@
 
  Java Advance Topics | Links
  :------------------ | :----
- Builder Pattern | [link](https://dzone.com/articles/design-patterns-the-builder-pattern)
- Signleton Pattern | [link](https://medium.com/@cancerian0684/singleton-design-pattern-and-how-to-make-it-thread-safe-b207c0e7e368)
- Factory Pattern | [link](https://medium.com/nerd-for-tech/understanding-factory-method-design-pattern-4d7ba8f0dfc4), [link](https://medium.com/geekculture/overview-of-factory-method-design-pattern-d3a6fe908ea4)
- Facade Pattern | [link](https://medium.com/@pramodayajayalath/facade-design-pattern-b75b4e79b9ff)
- Chain of Responsibility | [link](https://medium.com/geekculture/understanding-the-chain-of-responsibility-pattern-d729ef84621c)
- Iterator Pattern | [youtube](https://www.youtube.com/watch?v=VKIzUuMdmag)
- Observer Pattern | [link](https://howtodoinjava.com/design-patterns/behavioral/observer-design-pattern/)
+ Delegate Pattern | [link](https://java-design-patterns.com/patterns/delegation/)
+ Builder Pattern | [link](https://java-design-patterns.com/patterns/builder/)
+ Signleton Pattern | [link](https://java-design-patterns.com/patterns/singleton/)
+ Factory Pattern | [link](https://java-design-patterns.com/patterns/factory/)
+ Facade Pattern | [link](https://java-design-patterns.com/patterns/facade/)
+ Chain of Responsibility | [link](https://java-design-patterns.com/patterns/chain-of-responsibility/)
+ Iterator Pattern | [youtube](https://www.youtube.com/watch?v=VKIzUuMdmag),[link](https://java-design-patterns.com/patterns/iterator)
+ Observer Pattern | [link](https://java-design-patterns.com/patterns/observer)
  SOLID Principles | [link](https://medium.com/mindorks/solid-principles-explained-with-examples-79d1ce114ace)
  Internal working of Hashmap | [link](https://medium.com/javarevisited/internal-working-of-hashmap-in-java-97aeac3c7beb)
  Internal working of ArrayList | [link](https://javagoal.com/internal-working-of-arraylist-in-java/)
@@ -42,10 +43,10 @@
  Kotlin Scope Functions | [link](https://blog.mindorks.com/using-scoped-functions-in-kotlin-let-run-with-also-apply/) | :white_check_mark:
  Interface in Kotlin | [link](https://blog.mindorks.com/kotlin-interfaces/) | :white_check_mark:
  Kotlin Property Delegation | [link](https://blog.mindorks.com/property-delegation-in-kotlin/) | :white_check_mark:
- Kotlin Operator Overloading | [link](https://blog.mindorks.com/operator-overloading-in-kotlin/)
- Kotlin Reified | [link](https://blog.mindorks.com/what-are-reified-types-in-kotlin/)
- Kotlin Collection Functions | [link](https://blog.mindorks.com/kotlin-collection-functions/)
- Kotlin Type Alias | [link](https://blog.mindorks.com/type-aliases-in-kotlin/)
+ Kotlin Operator Overloading | [link](https://blog.mindorks.com/operator-overloading-in-kotlin/) | :white_check_mark:
+ Kotlin Reified | [link](https://blog.mindorks.com/what-are-reified-types-in-kotlin/) | :white_check_mark:
+ Kotlin Collection Functions | [link](https://blog.mindorks.com/kotlin-collection-functions/) | :white_check_mark:
+ Kotlin Type Alias | [link](https://blog.mindorks.com/type-aliases-in-kotlin/) | :white_check_mark:
  Kotlin sealed class | [link](https://blog.mindorks.com/learn-kotlin-sealed-classes)
  Lateinit vs Lazy | [link](https://blog.mindorks.com/learn-kotlin-lateinit-vs-lazy)
  Open Keyword Kotlin | [link](https://blog.mindorks.com/understanding-open-keyword-in-kotlin/)
