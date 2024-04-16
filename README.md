@@ -47,22 +47,22 @@
  Kotlin Reified | [link](https://blog.mindorks.com/what-are-reified-types-in-kotlin/) | :white_check_mark:
  Kotlin Collection Functions | [link](https://blog.mindorks.com/kotlin-collection-functions/) | :white_check_mark:
  Kotlin Type Alias | [link](https://blog.mindorks.com/type-aliases-in-kotlin/) | :white_check_mark:
- Kotlin sealed class | [link](https://blog.mindorks.com/learn-kotlin-sealed-classes)
- Lateinit vs Lazy | [link](https://blog.mindorks.com/learn-kotlin-lateinit-vs-lazy)
- Open Keyword Kotlin | [link](https://blog.mindorks.com/understanding-open-keyword-in-kotlin/)
- Kotlin Visibility Modifier | [link](https://blog.mindorks.com/learn-kotlin-visibility-modifiers-private-protected-internal-public/)
- Higher Order Function and Lambdas | [link](https://blog.mindorks.com/understanding-higher-order-functions-and-lambdas-in-kotlin)
- Inline, NoInline, CrossInline functions | [link](https://blog.mindorks.com/understanding-inline-noinline-and-crossinline-in-kotlin)
- Primary constructor vs Secondary Constructor | [link](https://blog.mindorks.com/primary-and-secondary-constructors-in-kotlin)
- Data Class | [link](https://medium.com/kayvan-kaseb/kotlin-data-classes-dc8324d80543)
- Extension Functions | [link](https://medium.com/mindorks/extension-function-in-kotlin-d52d1525550)
- Extension Functions vs Static Utility Class | [link](https://blog.mindorks.com/extension-functions-vs-static-utility-class/)
- Map vs FlatMap | [link](https://blog.mindorks.com/flatmap-vs-map-in-kotlin/)
- List vs Array | [link](https://blog.mindorks.com/difference-between-list-and-array-types-in-kotlin/)
- Const vs Val | [link](https://blog.mindorks.com/what-is-the-difference-between-const-and-val/)
- == vs === | [link](https://amitshekhar.me/blog/structural-and-referential-equality-in-kotlin)
- @JvmField | [link](https://amitshekhar.me/blog/jvmfield-annotation-in-kotlin)
- Interview Questions | [link](https://gist.github.com/paulfranco/4453383cc6df064d03087ce7aa5a0c8c), [link](https://blog.mindorks.com/kotlin-android-interview-questions/)
+ Kotlin sealed class | [link](https://blog.mindorks.com/learn-kotlin-sealed-classes) | :white_check_mark:
+ Lateinit vs Lazy | [link](https://blog.mindorks.com/learn-kotlin-lateinit-vs-lazy) | :white_check_mark:
+ Open Keyword Kotlin | [link](https://blog.mindorks.com/understanding-open-keyword-in-kotlin/) | :white_check_mark:
+ Kotlin Visibility Modifier | [link](https://blog.mindorks.com/learn-kotlin-visibility-modifiers-private-protected-internal-public/) | :white_check_mark:
+ Higher Order Function and Lambdas | [link](https://blog.mindorks.com/understanding-higher-order-functions-and-lambdas-in-kotlin) | :white_check_mark:
+ Inline, NoInline, CrossInline functions | [link](https://blog.mindorks.com/understanding-inline-noinline-and-crossinline-in-kotlin) | :white_check_mark:
+ Primary constructor vs Secondary Constructor | [link](https://blog.mindorks.com/primary-and-secondary-constructors-in-kotlin) | :white_check_mark:
+ Data Class | [link](https://medium.com/kayvan-kaseb/kotlin-data-classes-dc8324d80543) | :white_check_mark:
+ Extension Functions | [link](https://medium.com/mindorks/extension-function-in-kotlin-d52d1525550) | :white_check_mark:
+ Extension Functions vs Static Utility Class | [link](https://blog.mindorks.com/extension-functions-vs-static-utility-class/) | :white_check_mark:
+ Map vs FlatMap | [link](https://blog.mindorks.com/flatmap-vs-map-in-kotlin/) | :white_check_mark:
+ List vs Array | [link](https://blog.mindorks.com/difference-between-list-and-array-types-in-kotlin/) | :white_check_mark:
+ Const vs Val | [link](https://blog.mindorks.com/what-is-the-difference-between-const-and-val/) | :white_check_mark:
+ == vs === | [link](https://amitshekhar.me/blog/structural-and-referential-equality-in-kotlin) | :white_check_mark:
+ @JvmField | [link](https://amitshekhar.me/blog/jvmfield-annotation-in-kotlin) | :white_check_mark:
+ Interview Questions | [link](https://gist.github.com/paulfranco/4453383cc6df064d03087ce7aa5a0c8c), [link](https://blog.mindorks.com/kotlin-android-interview-questions/) | :white_check_mark:
 
  Android Core | Links
  :----------- | :---- 
