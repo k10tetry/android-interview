@@ -64,9 +64,9 @@
  @JvmField | [link](https://amitshekhar.me/blog/jvmfield-annotation-in-kotlin) | :white_check_mark:
  Interview Questions | [link](https://gist.github.com/paulfranco/4453383cc6df064d03087ce7aa5a0c8c), [link](https://blog.mindorks.com/kotlin-android-interview-questions/) | :white_check_mark:
 
- Android Core | Links
- :----------- | :---- 
- Activity | [link](https://blog.mindorks.com/android-activity-lifecycle), [link](https://developer.android.com/guide/components/activities/intro-activities), [link](https://medium.com/@JoseAlcerreca/the-android-lifecycle-cheat-sheet-part-i-single-activities-e49fd3d202ab)
+ Android Core | Links | Status
+ :----------- | :---- | :----:
+ Activity | [link](https://developer.android.com/guide/components/activities/intro-activities), [link](https://medium.com/@JoseAlcerreca/the-android-lifecycle-cheat-sheet-part-i-single-activities-e49fd3d202ab) | :white_check_mark:
  Tasks & Back Stack | [link](https://developer.android.com/guide/components/activities/tasks-and-back-stack)
  Context | [link](https://blog.mindorks.com/understanding-context-in-android-application-330913e32514)
  Android Manifest | [link](https://developer.android.com/guide/topics/manifest/manifest-intro)
