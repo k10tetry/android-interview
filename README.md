@@ -25,7 +25,7 @@
  :------------------ | :----
  Delegate Pattern | [link](https://java-design-patterns.com/patterns/delegation/)
  Builder Pattern | [link](https://java-design-patterns.com/patterns/builder/)
- Signleton Pattern | [link](https://java-design-patterns.com/patterns/singleton/)
+ Singleton Pattern | [link](https://java-design-patterns.com/patterns/singleton/)
  Factory Pattern | [link](https://java-design-patterns.com/patterns/factory/)
  Facade Pattern | [link](https://java-design-patterns.com/patterns/facade/)
  Chain of Responsibility | [link](https://java-design-patterns.com/patterns/chain-of-responsibility/)
@@ -83,7 +83,7 @@
  Parcelable vs Serializable | [link](https://medium.com/android-news/parcelable-vs-serializable-6a2556d51538)
  Bitmap Pool | [link](https://blog.mindorks.com/how-to-use-bitmap-pool-in-android-56c71a55533c)
  ConstraintLayout | [link](https://medium.com/geekculture/android-constraintlayout-all-of-the-things-7b74ba9a366b)
- App Startup | [link](https://developer.android.com/topic/performance/vitals/launch-time)
+ App Startup | [link](https://developer.android.com/topic/performance/vitals/launch-time) | :white_check_mark:
 
  Android Advance | Links
  :-------------- | :---- 
