@@ -1,3 +1,6 @@
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmNmYTdmZjktNDk2ZS00Yzk4LWIyMjItMWQ3ODMzZDZkNzk5%40thread.v2/0?context=%7b%22Tid%22%3a%229ca50369-3893-4dca-a42a-f383295eb0c5%22%2c%22Oid%22%3a%22be06ad1f-d6ee-465f-80c7-f22c407abff8%22%7d
+
+
 # Android Interview
 
  Java Core Topics | PDF Link
