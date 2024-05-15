@@ -88,7 +88,7 @@
  Android Advance | Links
  :-------------- | :---- 
  Dependency Injection Dagger 2 | [youtube](https://www.youtube.com/watch?v=DtzQkBp2M5M&list=PLRKyZvuMYSIPwjYw1bt_7u7nEwe6vATQd&ab_channel=CheezyCode), [youtube](https://youtube.com/playlist?list=PLuR1PJnGR-Ih-HXnGSpnqjdhdvqcwhfFU)
- Hilt | [yooutube](https://www.youtube.com/playlist?list=PLRKyZvuMYSIOSigPsU9_tbO0uDyaZ8Ycf)
+ Hilt | [youtube](https://www.youtube.com/playlist?list=PLRKyZvuMYSIOSigPsU9_tbO0uDyaZ8Ycf)
  Viewmodel and It's Internals | [link](https://betterprogramming.pub/everything-to-understand-about-viewmodel-400e8e637a58), [link](https://blog.mindorks.com/android-viewmodels-under-the-hood)
  Coroutines | [link](https://blog.mindorks.com/mastering-kotlin-coroutines-in-android-step-by-step-guide), [youtube](https://www.youtube.com/playlist?list=PLRKyZvuMYSIN-P6oJDEu3zGLl5UQNvx9y), [youtube](https://www.youtube.com/watch?v=YrrUCSi72E8)
  Coroutine Exception Handling | [link](https://blog.mindorks.com/exception-handling-in-kotlin-coroutines/)
