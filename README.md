@@ -103,6 +103,7 @@
  Android Studio Profiler | [youtube](https://www.youtube.com/watch?v=LGVbpobV-Yg), [link](https://diyavijay.medium.com/android-memory-profiler-cdd11efa44b3)
  Jacoco | [link](https://blog.mindorks.com/generate-global-code-coverage-report-in-android-development-using-jacoco-plugin/)
  Save UI States | [link](https://developer.android.com/topic/libraries/architecture/saving-states), [link](https://medium.com/kayvan-kaseb/some-best-practices-for-saving-ui-states-in-android-development-1d4f253c6a14)
+ Android Tools (adb) | [link](https://developer.android.com/tools/adb)
 
 MIT License
 
